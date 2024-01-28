@@ -1,4 +1,4 @@
-// Login to the registration application system.
+// Login and Registration Application System.
 // It gives users rooms to create accounts.Sign in to the existing account and also help the user revise their password.
 
 
