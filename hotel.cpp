@@ -1,3 +1,9 @@
+/* 
+The C++ hotel management project offers different functions, ranging from checking available rooms to monitoring food sales.
+*/
+
+
+
 #include <iostream>
 using namespace std;
 
