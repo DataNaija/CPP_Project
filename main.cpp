@@ -1,3 +1,7 @@
+// Login to the registration application system.
+// It gives users rooms to create accounts.Sign in to the existing account and also help the user revise their password.
+
+
 #include <iostream>
 #include <fstream>
 #include <string.h>
